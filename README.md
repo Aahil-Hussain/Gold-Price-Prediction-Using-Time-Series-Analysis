@@ -1,4 +1,4 @@
-# Gold-Price-Prediction-Using-Time-Series-Analysis 
+# Time-Series-Analysis-Predicting-Gold-Price
 
 ## Objective:
 "This project aims to predict the future prices of gold using historical data and machine learning techniques."
